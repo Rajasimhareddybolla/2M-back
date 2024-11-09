@@ -1,0 +1,31 @@
+progress_id,student_id,subject_id,progress_report,last_updated
+1,1,1,Student has shown consistent improvement in Telugu essays.,2024-01-30
+2,1,2,Needs more practice with English grammar rules.,2024-01-30
+3,1,3,Excels in math problem-solving.,2024-01-30
+4,1,4,Shows creativity in artwork.,2024-01-30
+5,1,5,Successfully completed the social studies project.,2024-02-15
+6,1,6,Needs to improve lab skills.,2024-01-30
+7,2,1,Struggles with Telugu vocabulary.,2024-01-30
+8,2,2,Needs to improve English grammar rules.,2024-01-30
+9,2,3,Shows improvement in math problem-solving.,2024-01-30
+10,2,4,Shows creativity in artwork.,2024-01-30
+11,2,5,Successfully completed the social studies project.,2024-02-15
+12,2,6,Needs to improve lab skills.,2024-01-30
+13,3,1,Shows consistent improvement in Telugu essays.,2024-01-30
+14,3,2,Needs more practice with English grammar rules.,2024-01-30
+15,3,3,Excels in math problem-solving.,2024-01-30
+16,3,4,Shows creativity in artwork.,2024-01-30
+17,3,5,Successfully completed the social studies project.,2024-02-15
+18,3,6,Needs to improve lab skills.,2024-01-30
+19,4,1,Struggles with Telugu vocabulary.,2024-01-30
+20,4,2,Needs to improve English grammar rules.,2024-01-30
+21,4,3,Shows improvement in math problem-solving.,2024-01-30
+22,4,4,Shows creativity in artwork.,2024-01-30
+23,4,5,Successfully completed the social studies project.,2024-02-15
+24,4,6,Needs to improve lab skills.,2024-01-30
+25,5,1,Shows consistent improvement in Telugu essays.,2024-01-30
+26,5,2,Needs more practice with English grammar rules.,2024-01-30
+27,5,3,Excels in math problem-solving.,2024-01-30
+28,5,4,Shows creativity in artwork.,2024-01-30
+29,5,5,Successfully completed the social studies project.,2024-02-15
+30,5,6,Needs to improve lab skills.,2024-01-30

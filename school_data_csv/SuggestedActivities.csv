@@ -1,0 +1,16 @@
+activity_id,job_sector_id,class,activity_name,activity_description,required_materials,estimated_duration
+1,1,5,Coding Workshop,Introduction to basic programming concepts,"Computer, Internet",2 hours
+2,2,6,Art and Design,Explore different art techniques,"Canvas, paints, pencils",3 hours
+3,3,7,Science Experiment,Conduct simple experiments,"Lab equipment, materials",1 hour
+4,1,5,Robotics Workshop,Build and program simple robots,Robotics kits,4 hours
+5,2,6,Music Production,Learn about music theory and production,"Computer, music software",2 hours
+6,3,7,Engineering Challenge,Solve engineering problems,"Building materials, tools",3 hours
+7,1,5,Web Design Workshop,Create basic websites,"Computer, web development software",2 hours
+8,2,6,Photography Basics,Learn about photography techniques,"Camera, tripod",2 hours
+9,3,7,Environmental Science Project,Research and present on environmental issues,"Research materials, presentation tools",3 hours
+10,1,5,App Development Workshop,Create simple mobile apps,"Computer, app development software",4 hours
+11,2,6,Graphic Design Workshop,Learn about graphic design principles,"Computer, design software",3 hours
+12,3,7,Agricultural Science Project,Study agricultural practices,"Gardening supplies, research materials",2 hours
+13,1,5,Cybersecurity Workshop,Learn about cybersecurity threats and prevention,"Computer, internet",2 hours
+14,2,6,Fashion Design Workshop,Design clothing and accessories,"Fabric, sewing machine",4 hours
+15,3,7,Medical Science Project,Research medical topics and conduct experiments,"Lab equipment, research materials",3 hours

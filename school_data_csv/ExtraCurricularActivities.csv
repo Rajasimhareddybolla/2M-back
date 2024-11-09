@@ -1,0 +1,11 @@
+activity_id,activity_name,description,student_ids,activity_schedule
+1,Chess Club,Weekly chess competitions and training,"1, 3, 5, 7, 9, 11, 13, 15, 17, 19",Tuesdays and Thursdays after school
+2,Art Club,Weekly art workshops and exhibitions,"2, 4, 6, 8, 10, 12, 14, 16, 18, 20",Wednesdays and Fridays after school
+3,Music Club,Weekly music practice and performances,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",Mondays and Thursdays after school
+4,Dance Club,Weekly dance classes and performances,"2, 4, 6, 8, 10, 12, 14, 16, 18, 20",Tuesdays and Fridays after school
+5,Computer Club,Weekly computer workshops and coding challenges,"1, 3, 5, 7, 9, 11, 13, 15, 17, 19",Mondays and Wednesdays after school
+6,Sports Club,Weekly sports activities and competitions,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",Tuesdays and Thursdays after school
+7,Science Club,Weekly science experiments and demonstrations,"1, 3, 5, 7, 9, 11, 13, 15, 17, 19",Wednesdays and Fridays after school
+8,Drama Club,Weekly drama practice and performances,"2, 4, 6, 8, 10, 12, 14, 16, 18, 20",Mondays and Thursdays after school
+9,Debating Club,Weekly debates and public speaking practice,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",Tuesdays and Fridays after school
+10,Quiz Club,Weekly quizzes and trivia competitions,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",Mondays and Wednesdays after school

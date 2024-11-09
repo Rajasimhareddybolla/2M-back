@@ -1,0 +1,31 @@
+history_id,student_id,job_sector_id,date_of_exposure,teacher_notes
+1,1,1,2024-02-15,Student showed interest in coding during the workshop.
+2,1,2,2024-03-12,Participated actively in the art and design activity.
+3,1,3,2024-04-05,Struggled with some of the science experiments.
+4,2,1,2024-02-15,Showed potential in coding but needs more practice.
+5,2,2,2024-03-12,Enjoyed the art and design activity and produced good work.
+6,2,3,2024-04-05,Completed the science experiments successfully.
+7,3,1,2024-02-15,Struggled with coding concepts.
+8,3,2,2024-03-12,Showed interest in art and design but needs more practice.
+9,3,3,2024-04-05,Struggled with some of the science experiments.
+10,4,1,2024-02-15,Showed potential in coding but needs more practice.
+11,4,2,2024-03-12,Enjoyed the art and design activity and produced good work.
+12,4,3,2024-04-05,Completed the science experiments successfully.
+13,5,1,2024-02-15,Struggled with coding concepts.
+14,5,2,2024-03-12,Showed interest in art and design but needs more practice.
+15,5,3,2024-04-05,Struggled with some of the science experiments.
+16,6,1,2024-02-15,Showed potential in coding but needs more practice.
+17,6,2,2024-03-12,Enjoyed the art and design activity and produced good work.
+18,6,3,2024-04-05,Completed the science experiments successfully.
+19,7,1,2024-02-15,Struggled with coding concepts.
+20,7,2,2024-03-12,Showed interest in art and design but needs more practice.
+21,7,3,2024-04-05,Struggled with some of the science experiments.
+22,8,1,2024-02-15,Showed potential in coding but needs more practice.
+23,8,2,2024-03-12,Enjoyed the art and design activity and produced good work.
+24,8,3,2024-04-05,Completed the science experiments successfully.
+25,9,1,2024-02-15,Struggled with coding concepts.
+26,9,2,2024-03-12,Showed interest in art and design but needs more practice.
+27,9,3,2024-04-05,Struggled with some of the science experiments.
+28,10,1,2024-02-15,Showed potential in coding but needs more practice.
+29,10,2,2024-03-12,Enjoyed the art and design activity and produced good work.
+30,10,3,2024-04-05,Completed the science experiments successfully.

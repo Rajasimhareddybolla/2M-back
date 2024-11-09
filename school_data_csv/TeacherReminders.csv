@@ -1,0 +1,10 @@
+reminder_id,teacher_id,reminder_text,reminder_date,priority_level,activity,learning_materials
+1,1,Submit the completed syllabus for Class 3A.,2024-01-31,High,Unit 1: Introduction to Telugu,"Syllabus, textbook, worksheets"
+3,2,Grade the completed assignments for Class 3B.,2024-01-30,High,Unit 3: Telugu Literature,"Textbook, worksheets"
+5,3,Submit the attendance records for the month of January.,2024-02-01,Medium,Classroom Management,Attendance sheet
+6,3,Prepare for the upcoming unit test in Science.,2024-02-25,High,Unit 4: Scientific Method,"Textbook, experiments"
+7,4,Submit the completed syllabus for Class 3D.,2024-01-31,High,Unit 1: Introduction to Mathematics,"Syllabus, textbook, worksheets"
+8,4,Prepare for the upcoming parent-teacher meeting.,2024-02-15,Medium,Unit 2: Number Systems,"Textbook, exercises"
+9,5,Grade the completed assignments for Class 3E.,2024-01-30,High,Unit 3: Geometry,"Textbook, worksheets"
+10,1,dddd,2024-10-30,Medium,Custom Reminder,
+11,1,yedhesham regina,2024-11-09,Medium,Custom Reminder,

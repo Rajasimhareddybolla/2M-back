@@ -1,0 +1,26 @@
+timestamp,activity_type,description,user_type
+2024-10-31 09:47:55,performance_updated,Performance level updated for Ramu Reddy: Excellent → Good,teacher
+2024-10-31 22:18:43,student_deleted,Student Ramu Reddy (ID: 1) has been removed,teacher
+2024-10-31 22:23:59,student_deleted,Student Lakshmi Devi (ID: 2) has been removed,teacher
+2024-11-09 08:25:43,timetable_updated,Timetable has been updated,teacher
+2024-11-09 10:32:05,attendance_updated,Updated attendance for Ravi Kumar: Day 1: P → A,teacher
+2024-11-09 10:41:13,assignment_created,New Assignment assignment created on topic: yedhesham yegina,teacher
+2024-11-09 10:41:14,assignment_created,New Assignment assignment created on topic: yedhesham yegina,teacher
+2024-11-09 10:41:19,assignment_created,New Assignment assignment created on topic: yedhesham yegina,teacher
+2024-11-09 10:44:50,assignment_created,New Quiz assignment created on topic: yedhesham regina,teacher
+2024-11-09 10:44:58,assignment_created,New Quiz assignment created on topic: yedhesham regina,teacher
+2024-11-09 10:47:41,assignment_created,New Quiz assignment created on topic: yedhesham regina,teacher
+2024-11-09 10:50:18,assignment_created,New Assignment assignment created on topic: yedhesham regina,teacher
+2024-11-09 11:00:24,reminder_added,New reminder added: yedhesham regina for 2024-11-09,teacher
+2024-11-09 11:07:01,timetable_ai_assist,AI assistance requested for timetable: can you tell about this time tabel...,teacher
+2024-11-09 11:10:03,timetable_ai_assist,AI assistance requested for timetable: NO stable is based on the performance of the stude...,teacher
+2024-11-09 12:20:07,attendance_updated,Updated attendance for Ravi Kumar: Day 1: A → P,teacher
+2024-11-09 12:45:04,assignment_created,New Assignment assignment created on topic: yedhesam yegina,teacher
+2024-11-09 12:45:32,assignment_created,New Assignment assignment created on topic: yedhesam yegina,teacher
+2024-11-09 12:47:51,assignment_created,New Assignment assignment created on topic: yedhesam yegina,teacher
+2024-11-09 15:02:31,attendance_updated,"Updated attendance for Ravi Kumar: Day 3: P → A, Day 7: A → P, Day 16: A → P, Day 20: A → P",teacher
+2024-11-09 15:14:55,performance_updated,Performance level updated for Ravi Kumar: Below Average → Good,teacher
+2024-11-09 15:22:21,attendance_updated,Updated attendance for Ravi Kumar: Day 4: P → A,teacher
+2024-11-09 15:22:27,attendance_updated,Updated attendance for Ravi Kumar: Day 1: P → A,teacher
+2024-11-09 15:22:28,attendance_updated,Updated attendance for Ravi Kumar: Day 2: P → A,teacher
+2024-11-09 15:26:58,assignment_created,New Quiz assignment created on topic: number system,teacher

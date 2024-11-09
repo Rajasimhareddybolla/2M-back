@@ -1,0 +1,28 @@
+event_id,event_name,event_date,event_type,event_description
+1,Bhogi,2024-01-14,Religious,Festival celebrating the end of the year
+2,Makar Sankranti,2024-01-15,Religious,Harvest festival
+3,Kanuma,2024-01-16,Religious,Festival of kites
+4,Republic Day,2024-01-26,National,Celebrates India's constitution
+5,Maha Shivratri,2024-03-08,Religious,Festival dedicated to Lord Shiva
+6,Holi,2024-03-25,Religious,Festival of colors
+7,Good Friday,2024-03-29,Religious,Commemorates the crucifixion of Jesus Christ
+8,Babu Jagjivan Ram's Birthday,2024-04-05,National,Celebrates the birth of a prominent Indian leader
+9,Ugadi,2024-04-09,Religious,New Year's Day for Telugu people
+10,Eid-ul-Fitr (Ramzan),2024-04-11,Religious,End of the fasting month of Ramadan
+11,Dr. B.R Ambedkar's Birthday,2024-04-14,National,Celebrates the birth of the architect of the Indian Constitution
+12,SreeRama Navami,2024-04-17,Religious,Celebrates the birth of Lord Rama
+13,Bakrid,2024-06-17,Religious,Festival commemorating the sacrifice of Ibrahim
+14,Muharram,2024-07-17,Religious,Islamic New Year and a period of mourning
+15,Independence Day,2024-08-15,National,Celebrates India's independence from British rule
+16,Shri Krishna Janmashtami,2024-08-26,Religious,Celebrates the birth of Lord Krishna
+17,Vinayaka Chavithi,2024-09-07,Religious,Festival dedicated to Lord Ganesha
+18,Milad-un-Nabi (Birthday of Prophet Mohammad),2024-09-16,Religious,Celebrates the birth of Prophet Mohammad
+19,Mahatma Gandhi Jayanti,2024-10-02,National,Celebrates the birth of Mahatma Gandhi
+20,Durgastami,2024-10-11,Religious,Festival dedicated to Goddess Durga
+21,Dusshera (Vijaya Dashmi),2024-10-12,Religious,Celebrates the victory of good over evil
+22,Closure due to heavy rain,2024-10-15,School Closure,Due to inclement weather
+23,Closure due to heavy rain,2024-10-16,School Closure,Due to inclement weather
+24,Closure due to heavy rain,2024-10-17,School Closure,Due to inclement weather
+25,Closure due to heavy rain,2024-10-18,School Closure,Due to inclement weather
+26,Diwali,2024-10-31,Religious,Festival of lights
+27,Christmas,2024-12-25,Religious,Celebrates the birth of Jesus Christ

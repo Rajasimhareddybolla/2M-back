@@ -1,0 +1,21 @@
+family_id,student_id,parent_occupation,parent_income,parental_involvement,siblings,socio_economic_status
+1,1,"Farmer, Housewife",Low,High,3,Low Income
+2,2,"Teacher, Clerk",Medium,Medium,2,Middle Income
+3,3,"Laborer, Housewife",Low,Low,4,Low Income
+4,4,"Farmer, Housewife",Low,High,2,Low Income
+5,5,"Teacher, Clerk",Medium,Medium,2,Middle Income
+6,6,"Laborer, Housewife",Low,Low,4,Low Income
+7,7,"Farmer, Housewife",Low,High,3,Low Income
+8,8,"Teacher, Clerk",Medium,Medium,2,Middle Income
+9,9,"Laborer, Housewife",Low,Low,4,Low Income
+10,10,"Farmer, Housewife",Low,High,2,Low Income
+11,11,"Teacher, Clerk",Medium,Medium,2,Middle Income
+12,12,"Laborer, Housewife",Low,Low,4,Low Income
+13,13,"Farmer, Housewife",Low,High,3,Low Income
+14,14,"Teacher, Clerk",Medium,Medium,2,Middle Income
+15,15,"Laborer, Housewife",Low,Low,4,Low Income
+16,16,"Farmer, Housewife",Low,High,2,Low Income
+17,17,"Teacher, Clerk",Medium,Medium,2,Middle Income
+18,18,"Laborer, Housewife",Low,Low,4,Low Income
+19,19,"Farmer, Housewife",Low,High,3,Low Income
+20,20,"Teacher, Clerk",Medium,Medium,2,Middle Income

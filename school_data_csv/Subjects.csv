@@ -1,0 +1,11 @@
+subject_id,subject_name,subject_description,is_core_subject
+1,Telugu,The official language of Andhra Pradesh,True
+2,English,"A global language, essential for communication",True
+3,Mathematics,"The study of numbers, shapes, and patterns",True
+4,Environmental Studies (EVS),Exploring the natural world and our relationship with it,True
+5,Social Studies,"Understanding history, geography, and civics",True
+6,Science,Investigating the natural world through observation and experimentation,True
+7,Art,Exploring creativity through visual expression,False
+8,Music,Learning about music theory and composition,False
+9,Physical Education (PE),Promoting physical fitness and health,False
+10,Craft,Developing practical skills and creativity through hands-on activities,False
